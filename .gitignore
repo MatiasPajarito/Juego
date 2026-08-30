@@ -1,0 +1,45 @@
+# Carpetas generadas automáticamente por Unity (no se suben nunca)
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Mm]emoryCaptures/
+/[Uu]serSettings/
+
+# Archivos de compilación
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Archivos de autoguardado / caché
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Crashlytics
+crashlytics-build.properties
+
+# Archivos específicos de plataforma
+[Aa]ssets/[Aa]ssetStoreTools*
+[Aa]ssets/Plugins/Editor/JetBrains*
+
+# macOS
+.DS_Store
+
+# Archivos de Visual Studio Code
+.vs/
+.vscode/
